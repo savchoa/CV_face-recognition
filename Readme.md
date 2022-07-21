@@ -6,9 +6,9 @@ face embeddings obtained using another FaceNet neural network from the OpenFace 
 
 The result of the pipeline is shown in two photos. Instructions for using the scripts are inside the files.
 <p align="center">
-  <img width="300" height="315" src="Output_Sasha.jpg">
+  <img width="600" height="615" src="Output_Sasha.jpg">
 </p>
 <p align="center">
-  <img width="300" height="315" src="Output_Sveta.jpg">
+  <img width="600" height="615" src="Output_Sveta.jpg">
 </p>
  
